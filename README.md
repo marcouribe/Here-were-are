@@ -1,4 +1,4 @@
-# Here-were-are
+# Here-we-are
 /*
  Control de posición de servo usando  un potenciómetro (resistor variable)
  by Sergio, Yenny, Michel, Marco.
